@@ -167,6 +167,403 @@ class TriviaDatabase {
             difficulty: .medium,
             category: .rivals
         ),
+        TriviaQuestion(
+            question: "In what year was the University of California, Berkeley’s football program founded?",
+            answers: ["1886", "1890", "1896", "1901"],
+            correctAnswer: 1,
+            difficulty: .medium,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "What is the official name of Cal’s football stadium?",
+            answers: ["California Memorial Stadium", "Berkeley Bowl", "Haas Stadium", "Golden Bear Field"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "The 1920s Cal football dynasty under head coach Andy Smith was nicknamed what?",
+            answers: ["The Wonder Teams", "The Bear Era", "The Blue Wave", "The Smith Machine"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal coach led the team to a Rose Bowl victory in 1938?",
+            answers: ["Lynn 'Pappy' Waldorf", "Jeff Tedford", "Stub Allison", "Andy Smith"],
+            correctAnswer: 2,
+            difficulty: .hard,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "Cal Football’s colors, blue and gold, were chosen to represent what?",
+            answers: ["California’s sky and fields", "The school seal", "Berkeley’s hills and sunsets", "State pride and loyalty"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "What was Cal’s first-ever bowl game appearance?",
+            answers: ["1921 Rose Bowl", "1938 Rose Bowl", "1949 Pineapple Bowl", "1950 Rose Bowl"],
+            correctAnswer: 0,
+            difficulty: .hard,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "The ‘Big C’ on the Berkeley hills was first constructed in what year?",
+            answers: ["1900", "1905", "1910", "1915"],
+            correctAnswer: 1,
+            difficulty: .medium,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "Which war is California Memorial Stadium dedicated to those who served in?",
+            answers: ["World War I", "World War II", "Korean War", "Vietnam War"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal head coach was responsible for the team’s modern offensive resurgence in the 2000s?",
+            answers: ["Mike White", "Keith Gilbertson", "Jeff Tedford", "Sonny Dykes"],
+            correctAnswer: 2,
+            difficulty: .easy,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "In what year did Cal officially join the Pac-10 Conference (now Pac-12)?",
+            answers: ["1915", "1959", "1968", "1978"],
+            correctAnswer: 3,
+            difficulty: .medium,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "Cal’s football program was temporarily dropped in 1906 for what reason?",
+            answers: ["Safety concerns", "Lack of funding", "World War I", "Poor attendance"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .history
+        ),
+
+        TriviaQuestion(
+            question: "Which team did Cal face in their first-ever football game?",
+            answers: ["Stanford", "San Jose State", "Nevada", "Santa Clara"],
+            correctAnswer: 0,
+            difficulty: .hard,
+            category: .history
+        ),
+        TriviaQuestion(
+            question: "Which Cal quarterback was the #1 overall pick in the 2016 NFL Draft?",
+            answers: ["Aaron Rodgers", "Jared Goff", "Davis Webb", "Nate Longshore"],
+            correctAnswer: 1,
+            difficulty: .easy,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Aaron Rodgers transferred to Cal from which community college?",
+            answers: ["Laney College", "Butte College", "Diablo Valley College", "City College of San Francisco"],
+            correctAnswer: 1,
+            difficulty: .easy,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal running back won the 1959 Heisman Trophy?",
+            answers: ["Chuck Muncie", "Craig Morton", "Joe Kapp", "Pete Elliott"],
+            correctAnswer: 0,
+            difficulty: .hard,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Marshawn Lynch famously rode what vehicle on the field after a 2006 win?",
+            answers: ["Golf cart", "Motorcycle", "Scooter", "ATV"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "DeSean Jackson played what primary position at Cal?",
+            answers: ["Quarterback", "Running back", "Wide receiver", "Cornerback"],
+            correctAnswer: 2,
+            difficulty: .easy,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal player later became a Super Bowl MVP with the Green Bay Packers?",
+            answers: ["Aaron Rodgers", "Desmond Bishop", "Keenan Allen", "Cam Jordan"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Joe Kapp, Cal’s 1958 quarterback, also played professionally in which league?",
+            answers: ["NFL", "AFL", "CFL", "USFL"],
+            correctAnswer: 2,
+            difficulty: .medium,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal alumnus became head coach of the Washington Commanders in 2024?",
+            answers: ["Marshawn Lynch", "Ron Rivera", "Troy Taylor", "Mike Silvera"],
+            correctAnswer: 1,
+            difficulty: .hard,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal player was known for the nickname 'Beast Mode'?",
+            answers: ["Aaron Rodgers", "Marshawn Lynch", "DeSean Jackson", "Shane Vereen"],
+            correctAnswer: 1,
+            difficulty: .easy,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal linebacker won the 2006 Pac-10 Defensive Player of the Year?",
+            answers: ["Desmond Bishop", "Zack Follett", "Mychal Kendricks", "Hardy Nickerson"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Who holds Cal’s record for most career receiving touchdowns?",
+            answers: ["DeSean Jackson", "Keenan Allen", "Geoff McArthur", "Marvin Jones"],
+            correctAnswer: 0,
+            difficulty: .hard,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which former Cal running back was drafted by the New England Patriots in 2011?",
+            answers: ["Marshawn Lynch", "Shane Vereen", "C.J. Anderson", "Justin Forsett"],
+            correctAnswer: 1,
+            difficulty: .medium,
+            category: .players
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal player was the first pick of the 1959 NFL Draft?",
+            answers: ["Craig Morton", "Chuck Muncie", "Randy Duncan", "Joe Kapp"],
+            correctAnswer: 2,
+            difficulty: .hard,
+            category: .players
+        ),
+        TriviaQuestion(
+            question: "Who holds Cal’s record for most passing yards in a single season?",
+            answers: ["Jared Goff", "Aaron Rodgers", "Kyle Boller", "Pat Barnes"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "What is Cal’s largest margin of victory ever recorded?",
+            answers: ["66 points", "72 points", "82 points", "86 points"],
+            correctAnswer: 2,
+            difficulty: .hard,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "How many times has Cal appeared in the Rose Bowl?",
+            answers: ["5", "7", "8", "9"],
+            correctAnswer: 3,
+            difficulty: .medium,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "What is Cal’s all-time record against Stanford (as of 2024)?",
+            answers: ["Leads series", "Trails series", "Tied", "Stanford leads by 1"],
+            correctAnswer: 1,
+            difficulty: .medium,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal quarterback holds the record for most touchdown passes in a game?",
+            answers: ["Jared Goff", "Aaron Rodgers", "Pat Barnes", "Joe Kapp"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "Who holds the Cal record for most career rushing yards?",
+            answers: ["Marshawn Lynch", "Russell White", "J.J. Arrington", "Chuck Muncie"],
+            correctAnswer: 1,
+            difficulty: .hard,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "What is the highest AP Poll ranking Cal has ever achieved?",
+            answers: ["#2", "#3", "#4", "#5"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal team had an undefeated season?",
+            answers: ["1920", "1937", "1950", "2004"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "What is the capacity of California Memorial Stadium after renovation?",
+            answers: ["62,467", "63,186", "64,796", "70,000"],
+            correctAnswer: 1,
+            difficulty: .easy,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "Cal’s highest-scoring game came against which opponent?",
+            answers: ["UC Davis", "San Jose State", "Pacific", "Stanford"],
+            correctAnswer: 2,
+            difficulty: .hard,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "Who holds Cal’s record for most interceptions in a single season?",
+            answers: ["Deltha O’Neal", "Daymeion Hughes", "Nnamdi Asomugha", "Cameron Goode"],
+            correctAnswer: 1,
+            difficulty: .medium,
+            category: .records
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal player has the most career sacks?",
+            answers: ["Cameron Jordan", "Andre Carter", "Ron Rivera", "Mychal Kendricks"],
+            correctAnswer: 1,
+            difficulty: .hard,
+            category: .records
+        ),
+        TriviaQuestion(
+            question: "What is the annual Cal vs. Stanford football game called?",
+            answers: ["The Big Game", "The Golden Bowl", "The NorCal Classic", "The Bay Rivalry"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "What trophy is awarded to the winner of the Cal-Stanford game?",
+            answers: ["The Axe", "The Bell", "The Cup", "The Trophy"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "‘The Play’ occurred during which year’s Big Game?",
+            answers: ["1978", "1980", "1982", "1984"],
+            correctAnswer: 2,
+            difficulty: .easy,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Who was the Cal player who scored the winning touchdown in ‘The Play’?",
+            answers: ["Kevin Moen", "Richard Rodgers Sr.", "Mariet Ford", "Dwight Garner"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Which team is Cal’s traditional non-Stanford rival within the Pac-12 North?",
+            answers: ["Oregon", "UCLA", "USC", "Washington"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Which marching band infamously ran onto the field during ‘The Play’?",
+            answers: ["Stanford Band", "Cal Band", "USC Band", "Oregon Band"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Where is ‘The Big Game’ usually alternated between?",
+            answers: ["Berkeley and Palo Alto", "Berkeley and San Francisco", "Palo Alto and San Jose", "San Francisco and Sacramento"],
+            correctAnswer: 0,
+            difficulty: .easy,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Which rivalry game is sometimes called the ‘Battle of the Bay’?",
+            answers: ["Cal vs. Stanford", "Cal vs. USC", "Cal vs. Oregon", "Stanford vs. USC"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Cal fans chant ‘Go Bears!’ while Stanford fans respond with what?",
+            answers: ["Go Trees", "Go Cardinal", "Fear the Tree", "Fight On"],
+            correctAnswer: 1,
+            difficulty: .easy,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal coach famously said, 'The band is on the field!' during ‘The Play’?",
+            answers: ["Joe Starkey", "Jeff Tedford", "Andy Smith", "Stub Allison"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "In which stadium did the 1982 Big Game take place?",
+            answers: ["California Memorial Stadium", "Stanford Stadium", "Kezar Stadium", "Candlestick Park"],
+            correctAnswer: 1,
+            difficulty: .medium,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "Which Cal team ended Stanford’s 7-game winning streak in 2002?",
+            answers: ["Jeff Tedford’s Bears", "Tom Holmoe’s Bears", "Sonny Dykes’ Bears", "Mike White’s Bears"],
+            correctAnswer: 0,
+            difficulty: .medium,
+            category: .rivals
+        ),
+
+        TriviaQuestion(
+            question: "What is the Cal student section traditionally called?",
+            answers: ["The Blue Zone", "The Cal Crew", "The Mic Men", "The Rally Committee"],
+            correctAnswer: 3,
+            difficulty: .hard,
+            category: .rivals
+        ),
+
     ]
     
     static func getRandomQuestions(count: Int = 5) -> [TriviaQuestion] {
@@ -718,6 +1115,8 @@ struct TriviaGameView: View {
         }
     }
 }
+
+
 
 // MARK: - Supporting Views
 
