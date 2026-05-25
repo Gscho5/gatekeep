@@ -101,7 +101,7 @@ The Explore tab is a multiple-choice trivia game over real Cal football history,
 </p>
 
 <p align="center">
-  <img src="Gatekeep Screenshots/05_TriviaResults" alt="End-of-quiz results screen" width="240"/>
+  <img src="Gatekeep Screenshots/05_TriviaResults.png" alt="End-of-quiz results screen" width="240"/>
 </p>
 
 ---
