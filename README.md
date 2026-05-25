@@ -1,4 +1,4 @@
-[Gatekeep_README.md](https://github.com/user-attachments/files/28212143/Gatekeep_README.md)
+
 # Gatekeep
 
 > A 2-minute personalized briefing for UC Berkeley football fans. built as a venture experiment to test whether casual Cal fans would pay attention to a tailored daily feed instead of doomscrolling ESPN.
