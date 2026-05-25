@@ -87,7 +87,7 @@ Then ⌘R in Xcode. No API keys or environment setup required.
 The home tab pulls live Cal football data, computes record + conference standings, and surfaces AI-style briefing cards tailored to the user's onboarding choices.
 
 <p align="center">
-  <img src="screenshots/01-feed.png" alt="Main feed with season overview" width="240"/>
+  <img src="Gatekeep Screenshots/01_Home.png" alt="Main feed with season overview" width="240"/>
 </p>
 
 ### Explore — Cal Football trivia with streak tracking
@@ -95,14 +95,13 @@ The home tab pulls live Cal football data, computes record + conference standing
 The Explore tab is a multiple-choice trivia game over real Cal football history, with difficulty tiers, live streak counters, and persistent best-streak / accuracy stats.
 
 <p align="center">
-  <img src="screenshots/04-explore.png" alt="Explore tab home with stats" width="240"/>
-  <img src="screenshots/05-trivia-hard.png" alt="Hard trivia question" width="240"/>
-  <img src="screenshots/06-trivia-medium.png" alt="Medium trivia question" width="240"/>
+  <img src="Gatekeep Screenshots/02_TriviaFeed.png" alt="Explore tab home with stats" width="240"/>
+  <img src="Gatekeep Screenshots/04_HardTrivia.png" alt="Hard trivia question" width="240"/>
+  <img src="Gatekeep Screenshots/03_MediumTrivia.png" alt="Medium trivia question" width="240"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/07-trivia-review.png" alt="Answer review showing correct vs incorrect" width="240"/>
-  <img src="screenshots/08-quiz-results.png" alt="End-of-quiz results screen" width="240"/>
+  <img src="Gatekeep Screenshots/05_TriviaResults" alt="End-of-quiz results screen" width="240"/>
 </p>
 
 ---
