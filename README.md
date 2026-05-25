@@ -88,8 +88,6 @@ The home tab pulls live Cal football data, computes record + conference standing
 
 <p align="center">
   <img src="screenshots/01-feed.png" alt="Main feed with season overview" width="240"/>
-  <img src="screenshots/02-briefing-season.png" alt="Season intelligence briefing" width="240"/>
-  <img src="screenshots/03-briefing-game.png" alt="Last game analysis briefing" width="240"/>
 </p>
 
 ### Explore — Cal Football trivia with streak tracking
