@@ -127,11 +127,11 @@ The Explore tab is a multiple-choice trivia game over real Cal football history,
 
 ## Status
 
-**Paused, not abandoned.** We validated the core hypothesis — there's a real market at UC Berkeley, and the format scales naturally to other colleges, the NFL, and other sports — but identified two structural blockers we couldn't solve as freshmen without funding: data accuracy (the free ESPN API isn't enough for a production product) and API cost coverage (no business model that pencils out at zero scale).
+**Paused, not abandoned.** We validated the core hypothesis, there's a real market at UC Berkeley, and the format scales naturally to other colleges, the NFL, and other sports, but identified two structural blockers we couldn't solve as freshmen without funding: data accuracy (the free ESPN API isn't enough for a production product) and API cost coverage (no business model that pencils out at zero scale).
 
 So this repo is preserved as documentation of the build and the lessons. If we revisit Gatekeep, v2 starts with a paid data provider and a B2B2C pitch to athletic department comms offices.
 
-If you want to fork it and take it further — go for it. The MIT license below covers it.
+If you want to fork it and take it further, go for it. The MIT license below covers it.
 
 ---
 
