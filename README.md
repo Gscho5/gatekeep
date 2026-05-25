@@ -140,7 +140,8 @@ If you want to fork it and take it further — go for it. The MIT license below 
 Built by **Gabe Schoor** ([@Gscho5](https://github.com/Gscho5)) and **Snehan Majumder** ([@snehanmajumder](https://github.com/snehanmajumder)).
 
 Gabe Schoor — Industrial Engineering & Operations Research, UC Berkeley '29
-[GitHub](https://github.com/Gscho5) · [LinkedIn](#) <!-- TODO: add LinkedIn -->
+[GitHub](https://github.com/Gscho5) · [LinkedIn](
+www.linkedin.com/in/gabe-schoor-95b603375) 
 
 ---
 
@@ -150,7 +151,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ESPN for the open college-football data API
 - Everyone who tried the prototype and gave us feedback
